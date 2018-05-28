@@ -1,0 +1,461 @@
+completed successfully	6s 844ms
+Run build	6s 694ms
+Load build	13ms
+Evaluate settings	7ms
+Apply script settings.gradle	4ms
+Configure build	367ms
+Load projects	26ms
+rootProject	1ms
+Cross-configure project :	
+Configure project :	340ms
+Apply plugin org.gradle.help-tasks	2ms
+Apply script build.gradle	331ms
+Resolve dependencies of :classpath	175ms
+Resolve files of :classpath	68ms
+Resolve gradle.jar (com.android.tools.build:gradle:3.1.2)	4ms
+Resolve manifest-merger.jar (com.android.tools.build:manifest-merger:26.1.2)	3ms
+Resolve gradle-core.jar (com.android.tools.build:gradle-core:3.1.2)	5ms
+Resolve compilerCommon.jar (com.android.databinding:compilerCommon:3.1.2)	26ms
+Resolve gradle-api.jar (com.android.tools.build:gradle-api:3.1.2)	6ms
+Resolve lint-gradle-api.jar (com.android.tools.lint:lint-gradle-api:26.1.2)	2ms
+Resolve builder.jar (com.android.tools.build:builder:3.1.2)	7ms
+Resolve bundletool.jar (com.android.tools.build:bundletool:0.1.0-alpha01)	24ms
+Resolve sdklib.jar (com.android.tools:sdklib:26.1.2)	5ms
+Resolve repository.jar (com.android.tools:repository:26.1.2)	3ms
+Resolve kotlin-stdlib-jre8.jar (org.jetbrains.kotlin:kotlin-stdlib-jre8:1.2.0)	3ms
+Resolve transform-api.jar (com.android.tools.build:transform-api:2.0.0-deprecated-use-gradle-api)	1ms
+Resolve asm-commons.jar (org.ow2.asm:asm-commons:5.1)	2ms
+Resolve asm-analysis.jar (org.ow2.asm:asm-analysis:5.1)	1ms
+Resolve asm-util.jar (org.ow2.asm:asm-util:5.1)	
+Resolve asm-tree.jar (org.ow2.asm:asm-tree:5.1)	26ms
+Resolve asm.jar (org.ow2.asm:asm:5.1)	18ms
+Resolve jopt-simple.jar (net.sf.jopt-simple:jopt-simple:4.9)	3ms
+Resolve proguard-gradle.jar (net.sf.proguard:proguard-gradle:5.3.3)	4ms
+Resolve auto-value.jar (com.google.auto.value:auto-value:1.5.2)	
+Resolve protobuf-java-util.jar (com.google.protobuf:protobuf-java-util:3.4.0)	
+Resolve builder-test-api.jar (com.android.tools.build:builder-test-api:3.1.2)	1ms
+Resolve ddmlib.jar (com.android.tools.ddms:ddmlib:26.1.2)	1ms
+Resolve tracker.jar (com.android.tools.analytics-library:tracker:26.1.2)	15ms
+Resolve shared.jar (com.android.tools.analytics-library:shared:26.1.2)	
+Resolve layoutlib-api.jar (com.android.tools.layoutlib:layoutlib-api:26.1.2)	16ms
+Resolve dvlib.jar (com.android.tools:dvlib:26.1.2)	17ms
+Resolve common.jar (com.android.tools:common:26.1.2)	1ms
+Resolve jimfs.jar (com.google.jimfs:jimfs:1.1)	1ms
+Resolve guava.jar (com.google.guava:guava:22.0)	
+Resolve aapt2-proto.jar (com.android.tools.build:aapt2-proto:0.1.0)	1ms
+Resolve protos.jar (com.android.tools.analytics-library:protos:26.1.2)	
+Resolve protobuf-java.jar (com.google.protobuf:protobuf-java:3.4.0)	1ms
+Resolve error_prone_annotations.jar (com.google.errorprone:error_prone_annotations:2.1.2)	
+Resolve builder-model.jar (com.android.tools.build:builder-model:3.1.2)	
+Resolve apksig.jar (com.android.tools.build:apksig:3.1.2)	
+Resolve javawriter.jar (com.squareup:javawriter:2.5.0)	1ms
+Resolve bcpkix-jdk15on.jar (org.bouncycastle:bcpkix-jdk15on:1.56)	2ms
+Resolve fastutil.jar (it.unimi.dsi:fastutil:7.2.0)	1ms
+Resolve json-simple.jar (com.googlecode.json-simple:json-simple:1.1)	1ms
+Resolve kotlin-reflect.jar (org.jetbrains.kotlin:kotlin-reflect:1.2.0)	1ms
+Resolve bcprov-jdk15on.jar (org.bouncycastle:bcprov-jdk15on:1.56)	6ms
+Resolve baseLibrary.jar (com.android.databinding:baseLibrary:3.1.2)	1ms
+Resolve antlr4.jar (org.antlr:antlr4:4.5.3)	2ms
+Resolve commons-io.jar (commons-io:commons-io:2.4)	8ms
+Resolve juniversalchardet.jar (com.googlecode.juniversalchardet:juniversalchardet:1.0.3)	5ms
+Resolve javapoet.jar (com.squareup:javapoet:1.8.0)	
+Resolve gson.jar (com.google.code.gson:gson:2.7)	1ms
+Resolve annotations.jar (com.android.tools:annotations:26.1.2)	1ms
+Resolve kotlin-stdlib-jre7.jar (org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.0)	
+Resolve kotlin-stdlib.jar (org.jetbrains.kotlin:kotlin-stdlib:1.2.0)	1ms
+Resolve proguard-base.jar (net.sf.proguard:proguard-base:5.3.3)	
+Resolve jsr305.jar (com.google.code.findbugs:jsr305:1.3.9)	17ms
+Resolve j2objc-annotations.jar (com.google.j2objc:j2objc-annotations:1.1)	
+Resolve animal-sniffer-annotations.jar (org.codehaus.mojo:animal-sniffer-annotations:1.14)	1ms
+Resolve commons-compress.jar (org.apache.commons:commons-compress:1.12)	15ms
+Resolve httpclient.jar (org.apache.httpcomponents:httpclient:4.2.6)	16ms
+Resolve httpmime.jar (org.apache.httpcomponents:httpmime:4.1)	11ms
+Resolve kxml2.jar (net.sf.kxml:kxml2:2.3.0)	11ms
+Resolve annotations.jar (org.jetbrains:annotations:13.0)	15ms
+Resolve javax.activation.jar (com.sun.activation:javax.activation:1.2.0)	
+Resolve jaxb-runtime.jar (org.glassfish.jaxb:jaxb-runtime:2.2.11)	14ms
+Resolve httpcore.jar (org.apache.httpcomponents:httpcore:4.2.5)	9ms
+Resolve commons-logging.jar (commons-logging:commons-logging:1.1.1)	3ms
+Resolve commons-codec.jar (commons-codec:commons-codec:1.6)	1ms
+Resolve jaxb-core.jar (org.glassfish.jaxb:jaxb-core:2.2.11)	1ms
+Resolve stax-ex.jar (org.jvnet.staxex:stax-ex:1.7.7)	1ms
+Resolve FastInfoset.jar (com.sun.xml.fastinfoset:FastInfoset:1.2.13)	
+Resolve jaxb-api.jar (javax.xml.bind:jaxb-api:2.2.12-b140109.1041)	1ms
+Resolve txw2.jar (org.glassfish.jaxb:txw2:2.2.11)	1ms
+Resolve istack-commons-runtime.jar (com.sun.istack:istack-commons-runtime:2.21)	1ms
+Resolve sdk-common.jar (com.android.tools:sdk-common:26.1.2)	
+allprojects	4ms
+Cross-configure project :	1ms
+Cross-configure project :app	3ms
+Calculate task graph	242ms
+Configure project :app	214ms
+Apply plugin org.gradle.help-tasks	
+Apply script build.gradle	40ms
+Apply plugin com.android.application	34ms
+Apply plugin com.android.build.gradle.api.AndroidBasePlugin	
+Apply plugin org.gradle.api.plugins.JavaBasePlugin	6ms
+Apply plugin org.gradle.api.plugins.BasePlugin	2ms
+Apply plugin org.gradle.language.base.plugins.LifecycleBasePlugin	1ms
+Apply plugin org.gradle.api.plugins.ReportingBasePlugin	
+Apply plugin org.gradle.language.base.plugins.LanguageBasePlugin	1ms
+Apply plugin org.gradle.platform.base.plugins.ComponentBasePlugin	1ms
+Apply plugin org.gradle.platform.base.plugins.BinaryBasePlugin	
+Run tasks	6s 62ms
+Finalize build cache configuration	2ms
+:app:preBuild	9ms
+:app:preDebugBuild	228ms
+Resolve dependencies of :app:debugCompileClasspath	45ms
+Resolve files of :app:debugCompileClasspath	108ms
+Resolve support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	1ms
+Resolve support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	2ms
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	2ms
+Resolve support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	2ms
+Resolve animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	3ms
+Resolve support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	1ms
+Resolve support-fragment.aar (com.android.support:support-fragment:27.1.1)	5ms
+Resolve appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	1ms
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	2ms
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	
+Resolve livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	1ms
+Resolve viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	2ms
+Resolve runtime.aar (android.arch.lifecycle:runtime:1.1.0)	3ms
+Resolve runtime.aar (android.arch.core:runtime:1.1.0)	6ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	9ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	8ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	11ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	97ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	10ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	9ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	76ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	75ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	71ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	69ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	84ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to runtime.aar (android.arch.core:runtime:1.1.0)	4ms
+Resolve constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	5ms
+Resolve dependencies of :app:debugRuntimeClasspath	6ms
+Resolve files of :app:debugRuntimeClasspath	5ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Resolve animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Resolve support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Resolve support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Resolve support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	
+Resolve support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Resolve support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	
+Resolve support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Resolve livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	1ms
+Resolve viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	1ms
+Resolve runtime.aar (android.arch.lifecycle:runtime:1.1.0)	1ms
+Resolve runtime.aar (android.arch.core:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	
+Resolve support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.core:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Execute run	12ms
+Resolve files of :app:debugCompileClasspath	5ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	2ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to runtime.aar (android.arch.core:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@554f7307 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Resolve files of :app:debugRuntimeClasspath	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.core:runtime:1.1.0)	1ms
+:app:compileDebugAidl	129ms
+Resolve files of :app:debugCompileClasspath	63ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	28ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-fragment.aar (com.android.support:support-fragment:27.1.1)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	36ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	22ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	21ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to runtime.aar (android.arch.core:runtime:1.1.0)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Execute taskAction	20ms
+Resolve files of :app:debugCompileClasspath	5ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@5b03a23f to runtime.aar (android.arch.core:runtime:1.1.0)	1ms
+:app:compileDebugRenderscript	110ms
+Resolve files of :app:debugCompileClasspath	63ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	27ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	28ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	28ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	23ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	27ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to runtime.aar (android.arch.core:runtime:1.1.0)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Execute taskAction	11ms
+Resolve files of :app:debugCompileClasspath	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to runtime.aar (android.arch.core:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@62f80bc3 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+:app:checkDebugManifest	17ms
+Execute check	1ms
+:app:generateDebugBuildConfig	41ms
+Execute generate	26ms
+:app:prepareLintJar	6ms
+Resolve dependencies of :app:lintChecks	1ms
+Execute prepare	1ms
+:app:mainApkListPersistenceDebug	20ms
+Execute fullTaskAction	10ms
+:app:generateDebugResValues	10ms
+Execute generate	1ms
+:app:generateDebugResources	1ms
+:app:mergeDebugResources	4s 106ms
+Resolve files of :app:debugRuntimeClasspath	52ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	14ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	15ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	14ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	16ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	16ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	16ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	17ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	15ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	20ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	20ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	18ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	19ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	21ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	15ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to runtime.aar (android.arch.core:runtime:1.1.0)	14ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	15ms
+Execute taskAction	2s 959ms
+Resolve files of :app:debugRuntimeClasspath	3ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@19759878 to runtime.aar (android.arch.core:runtime:1.1.0)	
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	223ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	223ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	263ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	245ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	9ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	178ms
+com.android.build.gradle.tasks.MergeResources$FileGenerationWorkAction	183ms
+:app:createDebugCompatibleScreenManifests	33ms
+Execute generateAll	14ms
+:app:processDebugManifest	124ms
+Resolve files of :app:debugRuntimeClasspath	4ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.core:runtime:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	1ms
+Execute taskAction	97ms
+Resolve files of :app:debugRuntimeClasspath	3ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-compat.aar (com.android.support:support-compat:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to runtime.aar (android.arch.core:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@57eea798 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+:app:splitsDiscoveryTaskDebug	35ms
+Execute taskAction	23ms
+:app:processDebugResources	1s 74ms
+Resolve files of :app:debugRuntimeClasspath	89ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	39ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	38ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	43ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	41ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	45ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	45ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	38ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	38ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	38ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	37ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	35ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	32ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	34ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	25ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to runtime.aar (android.arch.core:runtime:1.1.0)	24ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Resolve files of :app:debugCompileClasspath	1ms
+Execute taskAction	881ms
+Resolve files of :app:debugCompileClasspath	
+Resolve files of :app:debugRuntimeClasspath	2ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to appcompat-v7.aar (com.android.support:appcompat-v7:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to constraint-layout.aar (com.android.support.constraint:constraint-layout:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-fragment.aar (com.android.support:support-fragment:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-utils.aar (com.android.support:support-core-utils:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to animated-vector-drawable.aar (com.android.support:animated-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-vector-drawable.aar (com.android.support:support-vector-drawable:27.1.1)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-compat.aar (com.android.support:support-compat:27.1.1)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to livedata-core.aar (android.arch.lifecycle:livedata-core:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to viewmodel.aar (android.arch.lifecycle:viewmodel:1.1.0)	1ms
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to runtime.aar (android.arch.lifecycle:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to runtime.aar (android.arch.core:runtime:1.1.0)	
+Apply org.gradle.api.internal.artifacts.transform.VariantAttributeMatchingCache$1@3b5ee4c5 to support-core-ui.aar (com.android.support:support-core-ui:27.1.1)	
+:app:generateDebugSources	1ms
