@@ -1,0 +1,18 @@
+
+To install:
+- Solver for ConstraintLayout 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2)
+- ConstraintLayout for Android 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2)
+Preparing "Install Solver for ConstraintLayout 1.0.2 (revision: 1)".
+Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-solver-1.0.2.zip
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" ready.
+Preparing "Install ConstraintLayout for Android 1.0.2 (revision: 1)".
+Downloading file:/C:/Program%20Files/Android/Android%20Studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-1.0.2.zip
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" ready.
+Installing Solver for ConstraintLayout 1.0.2 in C:\Users\samblow2000\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" complete.
+Writing Maven metadata to C:\Users\samblow2000\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\maven-metadata.xml
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" finished.
+Installing ConstraintLayout for Android 1.0.2 in C:\Users\samblow2000\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\1.0.2
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" complete.
+Writing Maven metadata to C:\Users\samblow2000\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout\maven-metadata.xml
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" finished.

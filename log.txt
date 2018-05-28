@@ -1,0 +1,10 @@
+Downloading https://dl.google.com/android/repository/android_m2repository_r47.zip
+Downloading https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip
+Downloading https://dl.google.com/android/repository/platform-tools_r27.0.1-windows.zip
+Downloading https://dl.google.com/android/repository/extras/intel/haxm-windows_r6_2_1.zip
+Downloading https://dl.google.com/android/repository/3534162-studio.sdk-patcher.zip.bak
+Downloading https://dl.google.com/android/repository/emulator-windows-4773671.zip
+Downloading https://dl.google.com/android/repository/build-tools_r27.0.3-windows.zip
+Downloading https://dl.google.com/android/repository/platform-27_r03.zip
+Downloading https://dl.google.com/android/repository/google_m2repository_gms_v11_3_rc05_wear_2_0_5.zip
+Downloading https://dl.google.com/android/repository/sources-27_r01.zip
